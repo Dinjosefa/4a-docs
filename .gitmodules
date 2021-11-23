@@ -1,6 +1,3 @@
-[submodule "book_Auth_be_deploy"]
-	path = book_Auth_be_deploy
-	url = https://git.heroku.com/book-p-auth-be-deploy.git
 [submodule "Book-P-Front"]
 	path = Book-P-Front
 	url = https://github.com/FelipeGCx/Book-P-Front.git
